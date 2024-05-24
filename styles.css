@@ -87,6 +87,11 @@ button {
     flex-direction: row;
     padding-bottom: 80px;
     text-align: center;
+
+}
+
+.card-info{
+    padding: 20px
 }
 
 .section-3{
