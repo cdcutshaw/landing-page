@@ -83,11 +83,26 @@ button {
 .card-container {
     display: flex;
     flex-direction: row;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
     text-align: center;
 }
 
+.section-3{
+    background-color: #E5E7EB;
+    font-size: 36px;
 
+    color: #1F2937
+
+}
+.quote{
+    padding: 80px 200px 18px 200px;
+    font-style: italic;   
+}
+.attribution{
+    text-align: right;
+    padding: 0px 200px 80px 200px;
+    font-weight: bolder;
+}
 
 
   
